@@ -17,17 +17,17 @@ A collection of DataStructure experiments I've created, now open source and on G
 
 * Visual Studio 2010
 
-# BinaryTree
+# Binary Search Tree
 
 * 二叉排序树(Binary Sort Tree)又称二叉查找(搜索)树(Binary Search Tree)。其定义为：二叉排序树或者是空树，或者是满足如下性质的二叉树：
-** 若它的左子树非空，则左子树上所有结点的值均小于根结点的值；
-** 若它的右子树非空，则右子树上所有结点的值均大于根结点的值；
-** 左、右子树本身又各是一棵二叉排序树。
+[1] 若它的左子树非空，则左子树上所有结点的值均小于根结点的值；
+[2] 若它的右子树非空，则右子树上所有结点的值均大于根结点的值；
+[3] 左、右子树本身又各是一棵二叉排序树。
 * In computer science, a binary search tree (BST), sometimes also called an ordered or sorted binary tree, is a node-based binary tree data structure which has the following properties:[1]
-** The left subtree of a node contains only nodes with keys less than the node's key.
-** The right subtree of a node contains only nodes with keys greater than the node's key.
-** The left and right subtree must each also be a binary search tree.
-** There must be no duplicate nodes.
+[1] The left subtree of a node contains only nodes with keys less than the node's key.
+[2] The right subtree of a node contains only nodes with keys greater than the node's key.
+[3] The left and right subtree must each also be a binary search tree.
+[4] There must be no duplicate nodes.
 
 #Content
 
