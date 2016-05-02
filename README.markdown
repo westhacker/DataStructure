@@ -40,3 +40,7 @@ A collection of DataStructure experiments I've created, now open source and on G
 # Thanks
 
 Thanks for your reading and happy coding
+
+License
+
+MIT
